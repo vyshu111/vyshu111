@@ -73,7 +73,7 @@ I’m not just a coder – I’m also a guitarist, digital artist, and a YouTube
 </table>
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/5a3d0d69916383.5b940de056028.gif" alt="cute animation" width="200" height="200"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/5a3d0d69916383.5b940de056028.gif" alt="cute animation" width="300" height="200"/>
 </p>
 
 
