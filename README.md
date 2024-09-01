@@ -73,7 +73,7 @@ I’m not just a coder – I’m also a guitarist, digital artist, and a YouTube
 </table>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8UO5AqY1Wj7R6/giphy.gif" alt="cute girl coding animation" width="300" height="300"/>
+  <img src="https://www.bing.com/th/id/OGC.477dd92a660f0aacdba9564d109475c3?pid=1.7&rurl=https%3a%2f%2fgifdb.com%2fimages%2fhigh%2fanimated-girl-hi-waving-zb3ltk28xwzxomxc.gif&ehk=aXKRNIXN6R1m3A8%2fQeizyzFXGd0WUhYJx%2f97%2bXmY18g%3d" alt="cute girl coding animation" width="300" height="300"/>
 </p>
 
 
