@@ -17,6 +17,7 @@ I’m a dedicated software developer from India, known for solving complex probl
 - 🌍 **Explore my projects**: [GitHub Portfolio](https://github.com/vyshu111)
 - 📧 **Get in touch**: [vaishnaviboddula10@gmail.com](mailto:vaishnaviboddula10@gmail.com)
 - 📄 **Download my resume**: [Resume](https://drive.google.com/file/d/1pnIaBuG0Ps9D_35elDaFEuYz-YVZFFOv/view?usp=drivesdk)
+- **My portfolio**:[Portfolio](https://portfoliovaishnaviboddula.netlify.app/)
 
 ### 🌟 Fun Fact
 I’m not just a coder – I’m also a guitarist, digital artist, and a YouTube streamer! 🎸🎨📹
