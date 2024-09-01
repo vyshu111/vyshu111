@@ -74,6 +74,11 @@ I’m not just a coder – I’m also a guitarist, digital artist, and a YouTube
     <td><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a></td>
   </tr>
 </table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vyshu111&show_icons=true&locale=en&layout=compact" alt="vyshu111" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vyshu111&show_icons=true&locale=en" alt="vyshu111" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vyshu111&" alt="vyshu111" /></p>
 
 <p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/5a3d0d69916383.5b940de056028.gif" alt="cute animation" width="300" height="200"/>
