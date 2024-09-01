@@ -1,4 +1,4 @@
-![logo](https://github.com/vyshu111/vyshu111/blob/main/Black%20and%20Pink%20Gradient%20Motivational%20Quote%20Desktop%20Wallpaper.png)
+![logo](https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif)
 
 <h1 align="center">Hello there 👋, I'm Boddula Vaishnavi</h1>
 <h3 align="center">Passionate Software Developer | Guitarist | YouTube Streamer | Digital Artist</h3>
