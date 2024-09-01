@@ -1,12 +1,14 @@
 ![logo](https://github.com/vyshu111/vyshu111/blob/main/Black%20and%20Pink%20Gradient%20Motivational%20Quote%20Desktop%20Wallpaper.png)
-<h1 align="center">Hi there 👋, I'm Boddula Vaishnavi</h1> <h3 align="center">Passionate Software Developer | Guitarist | YouTube Streamer</h3> <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif"/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyshu111&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
+<h1 align="center">Hi there 👋, I'm Boddula Vaishnavi</h1> <h3 align="center">Passionate Software Developer | Guitarist | YouTube Streamer | Digital Artist </h3> <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif"/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyshu111&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 🚀 About Me
 I am a dedicated software developer from India with a knack for solving complex problems and building innovative solutions. Beyond coding, I’m an enthusiastic guitarist and enjoy streaming on YouTube.
-
+<br>
 🌍 All of my projects: GitHub Portfolio
+<br>
 📧 Reach me at: vaishnaviboddula10@gmail.com
+<br>
 🌟 Fun Fact
-I’m not just a coder – I also strum the guitar and stream on YouTube! 🎸📹
+I’m not just a coder – I am guitarust, digital artist and streamer on YouTube! 🎸📹
 
 💬 Connect with me:
 <p align="left"> <a href="https://linkedin.com/in/vaishnavi-boddula" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> </a> <a href="https://instagram.com/vaishnavi.vysh" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /> </a> <a href="https://www.youtube.com/channel/UCuJOfZX0oR6s12InFN9MMfw" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /> </a> <a href="https://www.leetcode.com/vaishnaviboddula10" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /> </a> </p>
