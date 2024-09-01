@@ -1,4 +1,6 @@
-![logo](https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif)
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" alt="Coding Animation" width="600" height="400"/>
+</p>
 
 <h1 align="center">Hello there 👋, I'm Boddula Vaishnavi</h1>
 <h3 align="center">Passionate Software Developer | Guitarist | YouTube Streamer | Digital Artist</h3>
